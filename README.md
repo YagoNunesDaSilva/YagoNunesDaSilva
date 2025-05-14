@@ -4,6 +4,6 @@
 - 😄 Ele/dele
 <div>
   <a href="https://github.com/YagoNunesDaSilva">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=YagoNunesDaSilva&count_private=true&show_icons=true&theme=dracula"/>
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoNunesDaSilva&layout=compact&theme=dracula"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=YagoNunesDaSilva&show_icons=true&theme=dracula"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoNunesDaSilva&theme=dracula"/>
 </div>
