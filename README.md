@@ -1,5 +1,5 @@
 ## Olá eu sou Yago Nunes
-- 🔭 Hoje trabalho com auxiliar docente em informática
+- 🔭 Hoje trabalho como moderador de conteúdo Meta
 - 🌱 Hoje faço curso em ADS(Análise e desenvolvimento de Sistemas)
  
 <div>
